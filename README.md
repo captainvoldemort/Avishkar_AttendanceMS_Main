@@ -28,7 +28,7 @@ The Smart Attendance Monitoring System employs biometric verification through fi
 
 1. Clone this repository to your Raspberry Pi or computer.
 2. Install the necessary Python libraries using `pip install -r requirements.txt`.
-3. Follow hardware setup instructions from the research paper (Raspberry Pi, fingerprint module).
+3. Setup the hardware (Raspberry Pi, fingerprint module).
 4. Customize settings and configurations in the code as required.
 
 ## Usage
