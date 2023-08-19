@@ -4,10 +4,7 @@ This project implements a Smart Attendance Monitoring System that combines finge
 
 ## Research Paper
 
-- Title: Smart Attendance Monitoring System
-- Authors: Mrs. Jyoti Lele and Yash Kulkarni
-- Affiliation: School of ECE, Dr. Vishwanath Karad MIT World Peace University, Pune, India
-- Contact: jyoit.lele@mitwpu.edu.in, yashreadytobox@gmail.com
+[Read Here](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2164&id=8)
 
 ## Abstract
 
