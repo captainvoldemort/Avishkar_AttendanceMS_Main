@@ -4,8 +4,9 @@ This project implements a Smart Attendance Monitoring System that combines finge
 
 ## Paper
 
-(GRENZE International Journal of Engineering and Technology Page)[https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2114&id=8]
-(Direct Download Paper)[https://thegrenze.com/pages/servej.php?fn=539.pdf&name=Smart%20Attendance%20Monitoring%20System&id=2114&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2]
+[GRENZE International Journal of Engineering and Technology Page](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2114&id=8)
+
+[Direct Download Paper](https://thegrenze.com/pages/servej.php?fn=539.pdf&name=Smart%20Attendance%20Monitoring%20System&id=2114&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2)
 
 ## Abstract
 
