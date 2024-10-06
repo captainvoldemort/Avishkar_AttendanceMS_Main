@@ -2,9 +2,9 @@
 
 This project implements a Smart Attendance Monitoring System that combines fingerprint and face recognition technologies to accurately mark and track attendance. The system offers a reliable, efficient, and user-friendly solution for attendance management, eliminating manual processes and proxy errors.
 
-## Research Paper
+## Paper
 
-[Read Here](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2164&id=8)
+Disabled read here
 
 ## Abstract
 
